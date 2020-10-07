@@ -1,0 +1,2 @@
+this is static file shahid , jo ki hamne project ke anadar banayi h parallel manage.py .
+or isko serve karane ke liye setting.py me static folder bottom me waha define kiya hua h
